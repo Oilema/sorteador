@@ -183,7 +183,6 @@ $(function () {
   var phrases = [
     'Sorteio Justo e Transparente.',
     'Boa Sorte! 🍀',
-    'Sua chance de ganhar começa aqui!',
   ];
   var pi = 0, ci = 0, deleting = false;
   var $tp = $('.typing-text');
