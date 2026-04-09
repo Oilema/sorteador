@@ -182,7 +182,7 @@ $(function () {
   /* ---- Typing effect ---- */
   var phrases = [
     'Sorteio Justo e Transparente.',
-    'Boa Sorte! 🍀',
+    'Boa Sorte! 🍀 ',
   ];
   var pi = 0, ci = 0, deleting = false;
   var $tp = $('.typing-text');
